@@ -2,7 +2,7 @@ DEBUG = FALSE
 
 GCC = nspire-gcc
 AS  = nspire-as
-DXX = nspire-gcc
+DXX = nspire-gdc
 LD  = nspire-ld
 GENZEHN = genzehn
 
